@@ -1,0 +1,6 @@
+*.pyc
+*.pkl
+*.Rapp.history
+.ipynb_checkpoints
+__pycache__
+.DS_Store
